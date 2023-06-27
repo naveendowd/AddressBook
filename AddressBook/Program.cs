@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AddressBook
+namespace BL_AddressbookSystem
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Adress Book");
+            Console.WriteLine("Welcome to the Address Book Program!");
+
         }
     }
 }
