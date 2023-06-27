@@ -14,7 +14,9 @@ namespace BL_AddressbookSystem
             AddressBook addressBook = new AddressBook();
             addressBook.AddContact();
             addressBook.DisplayContact();
-            addressBook.EditContact();
+            //addressBook.EditContact();
+            //addressBook.DisplayContact();
+            addressBook.DeleteContact();
             addressBook.DisplayContact();
         }
     }
